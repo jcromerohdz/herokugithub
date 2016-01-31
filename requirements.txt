@@ -5,6 +5,7 @@ gunicorn==19.4.5
 numpy==1.9.0
 py2neo==1.6.4
 pystache==0.5.4
+py2neo==1.6.4
 redis==2.10.3
 static==1.1.1
 static3==0.5.1
